@@ -1,0 +1,6 @@
+exception_handler_label_email_recipients: "Destinatários do Email "
+exception_handler_label_separate_multiple_emails_with_commas: "Separe múltiplos endereços de email com virgula"
+exception_handler_label_sender_address: "Endereço de envio"
+exception_handler_label_subject_prefix: "Prefixo do assunto"
+exception_handler_label_test_settings: "Teste as configurações disparando um erro falso"
+exception_handler_label_will_open_in_a_new_window: "(irá abrir em uma janela nova)"
