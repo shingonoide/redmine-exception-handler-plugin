@@ -1,4 +1,4 @@
-pt-br:
+pt-BR:
   exception_handler_label_email_recipients: "Destinatários do Email "
   exception_handler_label_separate_multiple_emails_with_commas: "Separe múltiplos endereços de email com virgula"
   exception_handler_label_sender_address: "Endereço de envio"
